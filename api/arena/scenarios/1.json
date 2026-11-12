@@ -1,0 +1,1 @@
+{"id":1,"name":"Ornn de Coração de Aço vs Rumble full dano","note":"","fighters":[{"team":0,"buildId":17,"autoAbilities":true,"priority":["R","3","1","2"],"brain":"ai:40","activations":{},"followTeam":true},{"team":1,"buildId":19,"autoAbilities":true,"priority":["R","3","1","2"],"brain":"ai:46","activations":{},"followTeam":true}],"actions":[],"duration":400.0}
